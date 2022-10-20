@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Abrar-M-G-CS/Abrar-M-G-CS" target="blank">
 Abrar Ghandurah </a></h1>
-<h3 align="center">A Tech Enthusiast&#127470;&#127475</h3>
+<h3 align="center">A Tech Enthusiast ;&#127475</h3>
 
 
 <a target="_blank" align="center">
