@@ -15,11 +15,10 @@ Abrar Ghandurah </a></h1>
 
 - 🤝 I’m available for Fun projects.
 
-- 🌱 I’m currently learning Alogrithms and ML
+- 🌱 I’m currently learning IOS Development 
 
 - 📝 I regularly solve coding problems on [https://profile.satr.codes/abrarghandurah/public/overview)
 
-- 📫 How to reach me **abrarghandurah@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
